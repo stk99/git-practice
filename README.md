@@ -1,3 +1,3 @@
 # git-practice
 update
-main bra.で変更
+conflict bra.で変更
