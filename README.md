@@ -1,3 +1,3 @@
 # git-practice
 update
-new-feature branchにて変更
+no-fast-forwardで変更
