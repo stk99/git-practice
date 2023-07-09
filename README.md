@@ -1,3 +1,3 @@
 # git-practice
 update
-no-fast-forwardで変更
+conflict bra.で変更
