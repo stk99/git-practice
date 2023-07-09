@@ -1,3 +1,3 @@
 # git-practice
 update
-no-fast-forwardで変更
+main bra.で変更
